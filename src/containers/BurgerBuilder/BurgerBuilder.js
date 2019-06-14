@@ -2,15 +2,15 @@ import React, { Component } from 'react';
 
 import Aux from '../../hoc/Auxiliary';
 
-class BugerBuilder extends Component {
+class BurgerBuilder extends Component {
     render() {
         return (
             <Aux>
-                <div>Buger</div>
+                <div>Burger</div>
                 <div>Builder Contorls</div>
             </Aux>
         );
     }
 }
 
-export default BugerBuilder;
+export default BurgerBuilder;
